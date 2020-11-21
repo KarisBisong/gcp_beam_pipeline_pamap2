@@ -1,10 +1,10 @@
-# Big Data Pipelines with Apache Beam on Google Cloud DataFlow for Physical Activity Monitoring Dataset
+# Big Data Pipelines with Apache Beam using Google Cloud DataFlow and Google BigQuery
 
 | | |
 |-|-|
-|__Title__| Big Data Pipelines with Apache Beam on Google Cloud DataFlow for Physical Activity Monitoring Dataset 
+|__Title__| Pipeline to Ingest Big Data to BigQuery with Apache Beam on Google Cloud DataFlow: Using the Physical Activity Monitoring Dataset from Kaggle
 |__Presenter__ | __Karis Bisong__ <br>Cloud Data Engineer<br>
-|__Website__ | <a href="https://karisbisong.org/apache-beam-pamap2/">https://karisbisong.org/apache-beam-pamap2/</a>
+|__Website__ | <a href="https://karisb.ca/apache-beam-big-data/">https://karisb.ca/apache-beam-big-data/</a>
 
 # Contents:
 - [Create a bucket on GCS](https://github.com/KarisBisong/gcp_beam_pipeline_pamap2/blob/master/beam_pipeline_dataflow.ipynb)
